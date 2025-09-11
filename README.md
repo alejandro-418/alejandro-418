@@ -1,8 +1,9 @@
-<p align="left">
+## Hello! 
+
+<p align="center">
   <img src="assets/osaka.gif" width="200"/>
 </p>
 
-## Hello! 
 
 Cybersecurity student with a strong interest in networking and linux.
 
@@ -13,10 +14,10 @@ Strong skills in blue team and red team. Feel free to ask me for my resume!
 [Why I chose 418](https://www.rfc-editor.org/rfc/rfc2324.html)
 
 ### Certifications
-CompTIA Sec+
-Rapid7 InsightIDR Specialist
-Oracle OCI Foundations **(WIP)**
-Oracle OCI Networking **(WIP)**
+* CompTIA Sec+
+* Rapid7 InsightIDR Specialist
+* Oracle OCI Foundations **(WIP)**
+* Oracle OCI Networking **(WIP)**
 
 ### Experience
 Currently working as a Cybersecurity Engineer intern, gaining hands-on experience with:
