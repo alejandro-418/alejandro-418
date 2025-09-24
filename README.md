@@ -17,7 +17,6 @@ Strong skills in blue team and red team. Feel free to ask me for my resume!
 * CompTIA Sec+
 * Rapid7 InsightIDR Specialist
 * Oracle OCI Foundations **(WIP)**
-* Oracle OCI Networking **(WIP)**
 
 ### Experience
 Currently working as a Cybersecurity Engineer intern, gaining hands-on experience with:
