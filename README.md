@@ -32,7 +32,7 @@ Currently contributing to academic research focused on leveraging LoRaWAN techno
 
 ### Looking forward
 * Enhance webscraping skills for project I am working on.
-* Acquiring more certificaions to expand my knowledge such as CySA+ or HTB certifications.
+* Acquiring more certificaions to expand my knowledge such as CPTS, OCSP, BTL1 & 2.
 * Go to DEFCON 2026! 
 
 
