@@ -5,21 +5,19 @@
 </p>
 
 
-Cybersecurity student with a strong interest in networking and linux.
+Cybersecurity graduate with a strong interest in networking and linux.
 
-Graduate December 2025.
-
-Strong skills in blue team and red team. Feel free to ask me for my resume!
+Strong skills in blue team and red team.
 
 [Why I chose 418](https://www.rfc-editor.org/rfc/rfc2324.html)
 
 ### Certifications
 * CompTIA Sec+
 * Rapid7 InsightIDR Specialist
-* Oracle OCI Foundations **(WIP)**
+* Oracle OCI Foundations
 
 ### Experience
-Currently working as a Cybersecurity Engineer intern, gaining hands-on experience with:
+Worked as a Cybersecurity Engineer Intern. Gained hands-on experience on:
 * Cloud identity and access management platforms
 * Endpoint protection and configuration management tools
 * Vulnerability and patch management systems
@@ -28,10 +26,9 @@ Currently working as a Cybersecurity Engineer intern, gaining hands-on experienc
 * Automation and scripting using PowerShell for system management and reporting
 * Customizing operating systems to fit specific needs
 
-Currently contributing to academic research focused on leveraging LoRaWAN technology for specialized node-based applications.
+Contributed to academic research focused on leveraging LoRaWAN technology for specialized node-based applications.
 
 ### Looking forward
-* Enhance webscraping skills for project I am working on.
 * Acquiring more certificaions to expand my knowledge such as CPTS, OSCP, BTL1 & 2.
 * Go to DEFCON 2026! 
 
