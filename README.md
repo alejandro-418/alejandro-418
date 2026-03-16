@@ -1,10 +1,5 @@
 ## Hello! 
 
-<p align="center">
-  <img src="assets/osaka.gif" width="200"/>
-</p>
-
-
 Cybersecurity graduate with a strong interest in networking and linux.
 
 Strong skills in blue team and red team.
@@ -31,6 +26,3 @@ Contributed to academic research focused on leveraging LoRaWAN technology for sp
 ### Looking forward
 * Acquiring more certificaions to expand my knowledge such as CPTS, OSCP, BTL1 & 2.
 * Go to DEFCON 2026! 
-
-
-
