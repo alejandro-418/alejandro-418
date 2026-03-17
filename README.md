@@ -2,8 +2,6 @@
 
 Cybersecurity graduate with a strong interest in networking and linux.
 
-Strong skills in blue team and red team.
-
 [Why I chose 418](https://www.rfc-editor.org/rfc/rfc2324.html)
 
 ### Certifications
